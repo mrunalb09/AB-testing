@@ -5,3 +5,5 @@ AB testing is very important for analyzing digital media campaigns and helps bui
 
 Details about AB testing and variations at each step:
 https://vwo.com/ab-testing/
+
+https://medium.com/@RenatoFillinich/ab-testing-with-python-e5964dd66143
