@@ -7,3 +7,5 @@ Details about AB testing and variations at each step:
 https://vwo.com/ab-testing/
 
 https://medium.com/@RenatoFillinich/ab-testing-with-python-e5964dd66143
+
+one-sided vs two-sided t-test: https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-what-are-the-differences-between-one-tailed-and-two-tailed-tests/
